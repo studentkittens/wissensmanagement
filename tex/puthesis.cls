@@ -58,7 +58,8 @@
 \newcommand*{\makefrontmatter}{%
     \titlespacing{\chapter}{0pt}{0.0em}{0.2em}
     \bodyspacing
-    \frontmatter\maketitlepage\makecopyrightpage\makeabstract
+%%    \frontmatter\maketitlepage\makecopyrightpage\makeabstract
+    \frontmatter\maketitlepage\makecopyrightpage
     \maketoc
     \makelot\clearpage\makelof\clearpage\makelos
     \clearpage\mainmatter
@@ -92,7 +93,7 @@
   \vspace{.6in}
   \extravspace{.6in}
   \begin{center}
-    Vorgelegt bei: \hfill Vorgelegt von: \\
+    Themensteller: \hfill Bearbeiter: \\
     \@adviser \hfill  \theauthor \\
     {\small \@adviserstreet \hfill \@authorstreet} \\
     {\small \@advisercity \hfill \@authorcity} \\
@@ -109,7 +110,7 @@
   \thispagestyle{empty}
   \vspace*{0in}
   \begin{center}
-    {\Large\reflectbox{\huge$_\copyright$}}\ Copyleft by \@author, \@copyrightyear. \\
+    {\Large\reflectbox{\huge$_\copyright$}}\ Copyright by \@author, \@copyrightyear. \\
     Some rights reserved. \\
     \vspace{1in}
     \begin{minipage}[c]{0.2\linewidth}
@@ -157,14 +158,14 @@
   \fi
   }
 
-\DeclareOption{lof}{\renewcommand*{\makelof}{%
-  \ifdefined\phantomsection
+%\DeclareOption{lof}{\renewcommand*{\makelof}{%
+%  \ifdefined\phantomsection
     % makes hyperref recognize this section properly for pdf links
-    \phantomsection
-  \else
-  \fi
-  \addcontentsline{toc}{section}{Abbildungsverzeichnis}\listoffigures}
-}% 
+%    \phantomsection
+%  \else
+%  \fi
+%  \addcontentsline{toc}{section}{Abbildungsverzeichnis}\listoffigures}
+%}% 
 
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{scrreprt}}
 \ProcessOptions

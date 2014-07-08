@@ -46,8 +46,8 @@ source_suffix = '.rst'
 source_encoding = 'utf-8'
 
 # General information about the project.
-project = u'Bachelorarbeit'
-author = u'Christopher Pahl'
+project = u'Seminararbeit'
+author = u'Susanne Kießling'
 copyright = u'by %s, 2013-2014.' % author
 version = '0.1'
 release = '0.1'
@@ -195,8 +195,9 @@ ADDITIONAL_PREAMBLE = """
 
 ADDITIONAL_FOOTER = """
 \\input{footer._tex}
-\\input{affidavit._tex}
+
 """
+#\\input{affidavit._tex}
 
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').

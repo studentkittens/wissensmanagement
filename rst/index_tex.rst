@@ -17,6 +17,7 @@ libmunin: |br| Projektarbeit
    \pagestyle{fancy}
 
 .. toctree::
-   
-    appendix
-    zzz_bibliography
+
+	zzz_bibliography
+	appendix   
+    
