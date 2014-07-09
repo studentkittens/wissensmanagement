@@ -59,7 +59,7 @@ für die Wissenskommunikation durch Visualisierungen dargestellt.
 
 Das in Abbildung :num:`knowledge-sharing` dargestellte Modell zur
 Wissensweitergabe soll zur Veranschaulichung der Kommunikation von Wissen im
-Allgemeinen dienen. Entwickelt wurde es von Prof. Dr. Renê Peinl und ist für die
+Allgemeinen dienen. Entwickelt wurde es von Prof. Dr. René Peinl und ist für die
 Verwendung innerhalb dieser Seminararbeit in vereinfachter Form dargestellt. Es
 soll lediglich dazu dienen, die Grundprinzipien der Wissenskommunikation zu
 verstehen.  Dem Modell zu Folge, beginnt die Wissensweitergabe immer mit einem
@@ -79,7 +79,6 @@ Abschließend findet eine Beurteilung und Verknüpfung mit bereits vorhandenem
 Wissen statt. Anschließend kann das neue Wissen genutzt und wiederum
 weiterkommuniziert werden.
 
-
 Modell zur Wissenskommunikation durch Visualisierung
 ====================================================
 
@@ -90,7 +89,7 @@ Modell zur Wissenskommunikation durch Visualisierung
 	:width: 100%
 	:align: center
 	
-	Modell zur Wissensweitergabe durch Visualisierung. Burkhard R.A., Meier M.: Tube Map Visualization, S. 12.
+	Modell zur Wissensweitergabe durch Visualisierung. Burkhard R.A., Meier M.: Tube Map Visualization, S. 12. :cite:`Burkhard_TubeMap`
 
 Remo A. Burkhard und Michael Meier weißen in *Tube Map Visualization*
 :cite:`Burkhard_TubeMap` darauf hin, dass für die Kommunikation von Wissen durch

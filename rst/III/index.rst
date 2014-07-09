@@ -26,7 +26,7 @@ Auch im Unternehmen ist der Einsatz von Notizen und Skizzen zur
 Wissenskommunikation sinnvoll. Ein erheblicher Vorteil ist, dass jeder im Stande
 ist, mit einfachen Strichen einen Sachverhalt darzustellen. Um das effizient und
 zielorientiert umzusetzen, bedarf es zwar der Einhaltung einiger Regeln (siehe
-:num:`richtlinien`), die Effekte, die damit erzeugt werden, sind jedoch
+Kapitel :ref:`richtlinien`), die Effekte, die damit erzeugt werden, sind jedoch
 bemerkenswert. Laut Martin J. Eppler und Roland A. Pfister in *Sketching at
 Work* :cite:`eppler2010sketching`, bringt das Zeichnen von Problemen oder einer
 Idee zahlreiche Vorteile fürs Denken, Kommunizieren und Entscheiden. 

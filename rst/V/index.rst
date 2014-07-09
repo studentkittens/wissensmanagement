@@ -43,7 +43,7 @@ Den Schlussgedanken soll folgendes Zitat bilden:
 .. epigraph::
 
 
-    |apostart| Die Seele denkt nie ohne Bild.
+    |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |nbsp| |apostart| Die Seele denkt nie ohne Bild.
     |apoend| 
 
     — Aristoteles

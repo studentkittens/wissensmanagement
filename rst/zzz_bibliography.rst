@@ -4,6 +4,7 @@
     =============
 
 .. bibliography:: ../refs.bib
+   :style: unsrt
    :cited:
 
 .. only:: html or text
